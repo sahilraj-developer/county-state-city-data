@@ -1,0 +1,23 @@
+{
+  "name": "county-state-city-data",
+  "version": "1.0.0",
+  "description": "npm package to county state and city data for selectes",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords":["npm"],
+  "author": "Sahil raj",
+  "license": "Apache-2.0",
+  "repository": {
+    "type":"git",
+    "url":"git+https://github.com/sahilraj-developer/county-state-city-data.git"
+  },
+  "bugs": {
+    "url":"https://github.com/sahilraj-developer/county-state-city-data/issues"
+  },
+  "homepage": "https://github.com/sahilraj-developer/county-state-city-data#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.20"
+  }
+}
