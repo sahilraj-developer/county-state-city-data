@@ -1,7 +1,7 @@
 **Explanation**
 
-* **Heading:** Clear title with your package name.
-* **Installation:**  Simple instructions for users to start using your package.
+* **Heading:**  county-state-city-data.
+<!-- * **Installation:**  Simple instructions for users to start using your package.
 * **Usage:** Code examples for the main functions (getting countries, states, etc.).
 * **Data Source:**  Transparency about where the data originates, and potential future updates.
 * **Contributing:** Encourages community involvement.
@@ -20,4 +20,4 @@ Do you have any of the following?
 * **Unique Features:** I'll help document them. 
 * **Chosen API:** I'll include API-specific usage instructions.
 
-Let me know how I can fine-tune your README for maximum clarity! 
+Let me know how I can fine-tune your README for maximum clarity!  -->
