@@ -1,6 +1,6 @@
 {
   "name": "all-country-state-city-data",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "npm package to county state and city data for selectes",
   "main": "dist/index.js",
   "scripts": {
